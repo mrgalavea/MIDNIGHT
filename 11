@@ -1,12 +1,6 @@
 #EXTINF:-1,NATGEO Fashion"Red Bull Tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
  
-#EXTINF:-1, NATGEO Fashion"History 2
-http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
- 
-#EXTINF:-1, NATGEO Fashion"Fashion TV Films
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
- 
 #EXTINF:-1, NATGEO Fashion"Fashion TV Teens
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
  
